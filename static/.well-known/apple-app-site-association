@@ -1,0 +1,22 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": [
+          "EB559KJ96C.red.carga.redCargaMobile",
+          "EB559KJ96C.red.carga.redCargaMobile.dev",
+          "EB559KJ96C.red.carga.redCargaMobile.staging"
+        ],
+        "paths": [
+          "*"
+        ],
+        "components": [
+          {
+            "/": "/*"
+          }
+        ]
+      }
+    ]
+  }
+}

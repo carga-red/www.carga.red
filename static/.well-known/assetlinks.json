@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "red.carga.mobile",
+    "sha256_cert_fingerprints":
+    ["32:1E:DA:FA:DA:A4:3D:02:00:A9:A5:81:F6:66:6D:B7:F7:DA:F9:47:0D:10:C9:49:A3:14:49:83:46:A7:FD:C7"]
+  }
+}]
